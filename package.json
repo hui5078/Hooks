@@ -1,0 +1,15 @@
+{
+  "name": "hooks_pro",
+  "version": "1.0.0",
+  "description": "运用TS Hooks creat-reat-app 搭建脚手架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "TS",
+    "Hooks"
+  ],
+  "author": "杨洋 王云辉",
+  "license": "ISC"
+}
